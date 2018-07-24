@@ -1,0 +1,16 @@
+{
+  "name": "smart-house",
+  "version": "1.0.0",
+  "description": "Prototype of smart house controling pannel",
+  "main": "index.js",
+  "repository": "git@github.com:hrystynaGr/smart-house.git",
+  "author": "(hrystynaGr",
+  "license": "MIT",
+  "devDependencies": {
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.16.2",
+    "webpack-dev-server": "^3.1.5"
+  }
+  
+}
+
